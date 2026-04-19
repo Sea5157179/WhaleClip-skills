@@ -7,7 +7,7 @@
 [English](#english) · [中文](#中文)
 
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://www.whaleclip.com)
-[![Docs](https://img.shields.io/badge/Docs-WHALECLIP__CLI__SKILLS-6366f1.svg)]([WHALECLIP_CLI_SKILLS.md](https://github.com/Sea5157179/WhaleClip-skills/blob/main/whaleclip%20skills.md))
+[![Docs](https://img.shields.io/badge/Docs-WHALECLIP__CLI__SKILLS-6366f1.svg)]([WHALECLIP_CLI_SKILLS.md](https://github.com/Sea5157179/WhaleClip-skills/blob/main/whaleclip%20skills.md)
 
 </div>
 
